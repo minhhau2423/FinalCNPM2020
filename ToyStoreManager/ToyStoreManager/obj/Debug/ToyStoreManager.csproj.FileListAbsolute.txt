@@ -1,0 +1,45 @@
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.exe.config
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.exe
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.pdb
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csprojAssemblyReference.cache
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Properties.Resources.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.GenerateResource.cache
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.CoreCompileInputs.cache
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.exe
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.pdb
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormLogin.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormSignUp.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormTrangChu.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormChangePass.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormNV.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form6.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form7.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form8.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form9.resources
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\Interop.Accessibility.dll
+E:\_Công nghệ phần mềm\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.ResolveComReference.cache
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.exe.config
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.exe
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\bin\Debug\ToyStoreManager.pdb
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.ResolveComReference.cache
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormLogin.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormSignUp.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormTrangChu.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormChangePass.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.FormNV.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form6.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form7.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form8.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form9.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Properties.Resources.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.GenerateResource.cache
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csproj.CoreCompileInputs.cache
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.exe
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.pdb
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\Interop.VSTOEE100.dll
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.csprojAssemblyReference.cache
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form10.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form11.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form12.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form13.resources
+E:\_CNPM\Assignment\ToyStoreManager\ToyStoreManager\obj\Debug\ToyStoreManager.Form14.resources
